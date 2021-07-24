@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/human-friends/static/css/main.33d8ba5f.chunk.css",
-    "main.js": "/human-friends/static/js/main.074d9e30.chunk.js",
-    "main.js.map": "/human-friends/static/js/main.074d9e30.chunk.js.map",
-    "runtime-main.js": "/human-friends/static/js/runtime-main.d5060ca6.js",
-    "runtime-main.js.map": "/human-friends/static/js/runtime-main.d5060ca6.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/human-friends/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.ac01ae64.chunk.js": "/human-friends/static/js/2.ac01ae64.chunk.js",
-    "static/js/2.ac01ae64.chunk.js.map": "/human-friends/static/js/2.ac01ae64.chunk.js.map",
-    "static/js/3.fa4054ef.chunk.js": "/human-friends/static/js/3.fa4054ef.chunk.js",
-    "static/js/3.fa4054ef.chunk.js.map": "/human-friends/static/js/3.fa4054ef.chunk.js.map",
-    "index.html": "/human-friends/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/human-friends/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.33d8ba5f.chunk.css.map": "/human-friends/static/css/main.33d8ba5f.chunk.css.map",
-    "static/js/2.ac01ae64.chunk.js.LICENSE.txt": "/human-friends/static/js/2.ac01ae64.chunk.js.LICENSE.txt"
+    "main.css": "/human-friends-redux/static/css/main.33d8ba5f.chunk.css",
+    "main.js": "/human-friends-redux/static/js/main.cac980eb.chunk.js",
+    "main.js.map": "/human-friends-redux/static/js/main.cac980eb.chunk.js.map",
+    "runtime-main.js": "/human-friends-redux/static/js/runtime-main.be544ea3.js",
+    "runtime-main.js.map": "/human-friends-redux/static/js/runtime-main.be544ea3.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/human-friends-redux/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.ac01ae64.chunk.js": "/human-friends-redux/static/js/2.ac01ae64.chunk.js",
+    "static/js/2.ac01ae64.chunk.js.map": "/human-friends-redux/static/js/2.ac01ae64.chunk.js.map",
+    "static/js/3.fa4054ef.chunk.js": "/human-friends-redux/static/js/3.fa4054ef.chunk.js",
+    "static/js/3.fa4054ef.chunk.js.map": "/human-friends-redux/static/js/3.fa4054ef.chunk.js.map",
+    "index.html": "/human-friends-redux/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/human-friends-redux/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.33d8ba5f.chunk.css.map": "/human-friends-redux/static/css/main.33d8ba5f.chunk.css.map",
+    "static/js/2.ac01ae64.chunk.js.LICENSE.txt": "/human-friends-redux/static/js/2.ac01ae64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5060ca6.js",
+    "static/js/runtime-main.be544ea3.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.ac01ae64.chunk.js",
     "static/css/main.33d8ba5f.chunk.css",
-    "static/js/main.074d9e30.chunk.js"
+    "static/js/main.cac980eb.chunk.js"
   ]
 }
