@@ -1,6 +1,6 @@
 {
   "name": "human-friends-redux",
-  "homepage": "https://rom2048.github.io/human-friends",
+  "homepage": "https://rom2048.github.io/human-friends-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
